@@ -45,23 +45,37 @@ Data cleaning and formatting.
 1. Total Sales by Fat Content : Analyze the imapct of fat content on total sales. Chart Type : Donut chart.
 ![Total_sales_by_fat_content](https://github.com/user-attachments/assets/4b817873-9219-4c8e-aa15-2b9fc10a3692)
 
+
+
 2. Total Sales by Item : Identify the performance of different item types in terms of total sales. Chart Type : Bar Chart.
 ![Fat_by_outelt](https://github.com/user-attachments/assets/42a939d0-a7e3-460c-a4aa-67baf76d67f9)
 
+
+
 3. Fat Content by Outlet for Total Sales : Compare total sales across fifferent outlets segmented by fat content. Chart Type : Stacked Column Chart.
 ![Item_type](https://github.com/user-attachments/assets/a14197b5-4e43-4013-bab6-4f4426a84ef5)
+
+
    
 4. Total Sales by Outlet Establishment : Evaluate how the age or type of outlet establishment influences total sales. Chart Type : Line Chart.
 ![Outlet_establishment](https://github.com/user-attachments/assets/7dfb1df0-f972-451b-8360-a18117fbc0c2)
 
+
+
 5. Sales by Outlet Size : Analyze the correlation between outlet size and total sales. Chart Type : Donut/Pie Chart.
 ![Outlet_size](https://github.com/user-attachments/assets/050c2855-8c51-4c76-a31c-bb16cb87094d)
+
+
 
 6. Sales by Outlet Location : Assess the geographic distibution os sales across different locations. Chart Type : Funnel Map.
 ![Outelt_location](https://github.com/user-attachments/assets/19eaef55-779d-4a86-a486-acda0737f1ca)
 
+
+
 7. All metrics by Outlet Type : Provide a comprehensive view of all key metrics(Total Sales, Avg Sales, Number of Items, Avg Rating) broken down by different outlet types. Chart Type : Matrix Card.
 ![Lat_one](https://github.com/user-attachments/assets/83378e43-78bf-4555-9800-924fe1bf79e7)
+
+
 
 # Results
 
