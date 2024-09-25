@@ -93,6 +93,11 @@ Data cleaning and formatting.
 
 # Results
 
+
+![Dashboard](https://github.com/user-attachments/assets/986b9b2c-3b87-4a20-84cb-64f434d2cd42)
+
+
+
 Key findings reveal a total sales of $1.20M with an average sales value of $141, and the popularity of certain product categories like Meat, Canned, and House. 
 The dashboard also highlights variations in outlet performance and customer satisfaction levels, offering valuable insights for optimizing operations and improving customer experience.
 
