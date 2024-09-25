@@ -42,7 +42,7 @@ Data cleaning and formatting.
 
 # Chart's Requirement
 
-1. Total Sales by Fat Content : Analyze the imapct of fat content on total sales. Chart Type : Donut chart.
+1. ** Total Sales by Fat Content : Analyze the imapct of fat content on total sales. Chart Type : Donut chart. **
 
    
 ![Total_sales_by_fat_content](https://github.com/user-attachments/assets/4b817873-9219-4c8e-aa15-2b9fc10a3692)
