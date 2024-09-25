@@ -15,6 +15,9 @@ The "Outlet Establishment" chart shows the growth of outlets over time. The "Fat
 3. Number of Items : The total count of different items sold.
 4. Average Rating : The average customer rating for items sold.
 
+![KPI](https://github.com/user-attachments/assets/6dedec5a-4f60-4a0d-86e8-a1764570fb3e)
+
+
 # Data sources 
 
 The primary dataset used for the analysis is the "BlinkIT Grocery Data" file, containing the detailed information about each sale made by BlinkIT.
@@ -40,14 +43,25 @@ Data cleaning and formatting.
 # Chart's Requirement
 
 1. Total Sales by Fat Content : Analyze the imapct of fat content on total sales. Chart Type : Donut chart.
-![Fat conetnt](https://github.com/user-attachments/assets/ff5a63cc-8522-47fe-9fec-7506048347a7)
+![Total_sales_by_fat_content](https://github.com/user-attachments/assets/4b817873-9219-4c8e-aa15-2b9fc10a3692)
 
-3. Total Sales by Item : Identify the performance of different item types in terms of total sales. Chart Type : Bar Chart.
-4. Fat Content by Outlet for Total Sales : Compare total sales across fifferent outlets segmented by fat content. Chart Type : Stacked Column Chart.
-5. Total Sales by Outlet Establishment : Evaluate how the age or type of outlet establishment influences total sales. Chart Type : Line Chart.
-6. Sales by Outlet Size : Analyze the correlation between outlet size and total sales. Chart Type : Donut/Pie Chart.
-7. Sales by Outlet Location : Assess the geographic distibution os sales across different locations. Chart Type : Funnel Map.
-8. All metrics by Outlet Type : Provide a comprehensive view of all key metrics(Total Sales, Avg Sales, Number of Items, Avg Rating) broken down by different outlet types. Chart Type : Matrix Card.
+2. Total Sales by Item : Identify the performance of different item types in terms of total sales. Chart Type : Bar Chart.
+![Fat_by_outelt](https://github.com/user-attachments/assets/42a939d0-a7e3-460c-a4aa-67baf76d67f9)
+
+3. Fat Content by Outlet for Total Sales : Compare total sales across fifferent outlets segmented by fat content. Chart Type : Stacked Column Chart.
+![Item_type](https://github.com/user-attachments/assets/a14197b5-4e43-4013-bab6-4f4426a84ef5)
+   
+4. Total Sales by Outlet Establishment : Evaluate how the age or type of outlet establishment influences total sales. Chart Type : Line Chart.
+![Outlet_establishment](https://github.com/user-attachments/assets/7dfb1df0-f972-451b-8360-a18117fbc0c2)
+
+5. Sales by Outlet Size : Analyze the correlation between outlet size and total sales. Chart Type : Donut/Pie Chart.
+![Outlet_size](https://github.com/user-attachments/assets/050c2855-8c51-4c76-a31c-bb16cb87094d)
+
+6. Sales by Outlet Location : Assess the geographic distibution os sales across different locations. Chart Type : Funnel Map.
+![Outelt_location](https://github.com/user-attachments/assets/19eaef55-779d-4a86-a486-acda0737f1ca)
+
+7. All metrics by Outlet Type : Provide a comprehensive view of all key metrics(Total Sales, Avg Sales, Number of Items, Avg Rating) broken down by different outlet types. Chart Type : Matrix Card.
+![Lat_one](https://github.com/user-attachments/assets/83378e43-78bf-4555-9800-924fe1bf79e7)
 
 # Results
 
