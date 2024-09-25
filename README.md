@@ -52,14 +52,15 @@ Data cleaning and formatting.
 2. Total Sales by Item : Identify the performance of different item types in terms of total sales. Chart Type : Bar Chart.
 
    
-![Fat_by_outelt](https://github.com/user-attachments/assets/42a939d0-a7e3-460c-a4aa-67baf76d67f9)
+![Item_type](https://github.com/user-attachments/assets/a14197b5-4e43-4013-bab6-4f4426a84ef5)
 
 
 
 3. Fat Content by Outlet for Total Sales : Compare total sales across fifferent outlets segmented by fat content. Chart Type : Stacked Column Chart.
 
    
-![Item_type](https://github.com/user-attachments/assets/a14197b5-4e43-4013-bab6-4f4426a84ef5)
+
+![Fat_by_outelt](https://github.com/user-attachments/assets/42a939d0-a7e3-460c-a4aa-67baf76d67f9)
 
 
    
