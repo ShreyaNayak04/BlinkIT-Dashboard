@@ -40,12 +40,14 @@ Data cleaning and formatting.
 # Chart's Requirement
 
 1. Total Sales by Fat Content : Analyze the imapct of fat content on total sales. Chart Type : Donut chart.
-2. Total Sales by Item : Identify the performance of different item types in terms of total sales. Chart Type : Bar Chart.
-3. Fat Content by Outlet for Total Sales : Compare total sales across fifferent outlets segmented by fat content. Chart Type : Stacked Column Chart.
-4. Total Sales by Outlet Establishment : Evaluate how the age or type of outlet establishment influences total sales. Chart Type : Line Chart.
-5. Sales by Outlet Size : Analyze the correlation between outlet size and total sales. Chart Type : Donut/Pie Chart.
-6. Sales by Outlet Location : Assess the geographic distibution os sales across different locations. Chart Type : Funnel Map.
-7. All metrics by Outlet Type : Provide a comprehensive view of all key metrics(Total Sales, Avg Sales, Number of Items, Avg Rating) broken down by different outlet types. Chart Type : Matrix Card.
+![Fat conetnt](https://github.com/user-attachments/assets/ff5a63cc-8522-47fe-9fec-7506048347a7)
+
+3. Total Sales by Item : Identify the performance of different item types in terms of total sales. Chart Type : Bar Chart.
+4. Fat Content by Outlet for Total Sales : Compare total sales across fifferent outlets segmented by fat content. Chart Type : Stacked Column Chart.
+5. Total Sales by Outlet Establishment : Evaluate how the age or type of outlet establishment influences total sales. Chart Type : Line Chart.
+6. Sales by Outlet Size : Analyze the correlation between outlet size and total sales. Chart Type : Donut/Pie Chart.
+7. Sales by Outlet Location : Assess the geographic distibution os sales across different locations. Chart Type : Funnel Map.
+8. All metrics by Outlet Type : Provide a comprehensive view of all key metrics(Total Sales, Avg Sales, Number of Items, Avg Rating) broken down by different outlet types. Chart Type : Matrix Card.
 
 # Results
 
