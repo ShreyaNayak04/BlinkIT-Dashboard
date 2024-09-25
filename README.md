@@ -1,5 +1,4 @@
 # BlinkIT Dashboard
-Interactive dashboard with variety of charts and graphs.
 
 ### Dashboard Link : https://app.powerbi.com/links/RLRYIPqCdG?ctid=e8f218d1-fc5f-496c-8c02-337a75c9eed4&pbi_source=linkShare
 
