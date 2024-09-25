@@ -32,7 +32,9 @@ PowerBI - Creating reports
 In the initial data preparation phase,performed the following tasks:
 
 Data loading and inspection.
+
 Handling missing values.
+
 Data cleaning and formatting.
 
 # Chart's Requirement
