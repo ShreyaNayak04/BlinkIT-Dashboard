@@ -1,6 +1,6 @@
 # BlinkIT Dashboard
 
-<a href = "https://app.powerbi.com/links/RLRYIPqCdG?ctid=e8f218d1-fc5f-496c-8c02-337a75c9eed4&pbi_source=linkShare" src ="https://app.powerbi.com/links/RLRYIPqCdG?ctid=e8f218d1-fc5f-496c-8c02-337a75c9eed4&pbi_source=linkShare"> <h1>Link for Dashboard</h1> </a>
+<a href = "https://app.powerbi.com/links/RLRYIPqCdG?ctid=e8f218d1-fc5f-496c-8c02-337a75c9eed4&pbi_source=linkShare" src ="https://app.powerbi.com/links/RLRYIPqCdG?ctid=e8f218d1-fc5f-496c-8c02-337a75c9eed4&pbi_source=linkShare"> Link for Dashboard </a>
 
 ## Problem Statement
 
