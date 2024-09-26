@@ -1,6 +1,6 @@
 # BlinkIT Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/RLRYIPqCdG?ctid=e8f218d1-fc5f-496c-8c02-337a75c9eed4&pbi_source=linkShare
+< a href = "https://app.powerbi.com/links/RLRYIPqCdG?ctid=e8f218d1-fc5f-496c-8c02-337a75c9eed4&pbi_source=linkShare"  > Link for Dashboard</a>
 
 ## Problem Statement
 
